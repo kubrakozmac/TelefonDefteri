@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace TelefonDefteri
 {
-    class Program
+    class Kisi
     {
-        static void Main(string[] args)
-        {
-            // Kodlama Yapıldı..
-        }
+        // Properties..
     }
 }
